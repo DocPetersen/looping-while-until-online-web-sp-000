@@ -3,3 +3,4 @@ def using_until
   if levitation_force > 10
     puts "Wingardium Leviosa"
 end
+end
